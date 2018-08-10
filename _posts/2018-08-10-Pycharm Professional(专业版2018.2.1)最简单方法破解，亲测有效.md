@@ -4,7 +4,7 @@ title:      "Pycharm Professional(专业版)最简单方法破解，亲测有效
 subtitle:   ""
 date:       2018-08-10 11:17:00
 author:     "崔天祥"
-header-img: ""
+header-img: "img/post-bg-os-metro.jpg"
 tags:
     - 编程
     - Python
