@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     cuixiang100
+weibo_username:     cuitianxiang100
 zhihu_username:     cuitianxiang
 github_username:    cuitianxiang100
 twitter_username:   cuitianxiang
