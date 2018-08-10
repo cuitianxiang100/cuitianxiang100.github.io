@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: Ctx Blog
 SEOTitle: 崔天祥的博客 | CTX Blog
 header-img: img/home-bg.jpg
 email: cuitianxiang100@163.com
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     cuitianxiang
+weibo_username:     cuixiang100
 zhihu_username:     cuitianxiang
-github_username:    cuitianxiang
+github_username:    cuitianxiang100
 twitter_username:   cuitianxiang
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -53,7 +53,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: cuitianxiang
 
 # Netease settings
 netease_comment: false
@@ -66,7 +66,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: dspwj.cn
 
 
 
