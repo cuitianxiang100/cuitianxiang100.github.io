@@ -9,8 +9,8 @@ tags:
     - 编程
     - Python
 ---
-> 若本文图片不能正常显示 [点击这里](https://my.csdn.net/qq_34755081)登录CSDN即可正常显示 
--------------------------------------
+> 若本文图片不能正常显示 [点击这里](https://blog.csdn.net/qq_34755081/article/details/81545717)
+----------
 **简介**
 PyCharm是由JetBrains打造的一款Python IDE，VS2010的重构插件Resharper就是出自JetBrains之手。
 同时支持Google App Engine，PyCharm支持IronPython。这些功能在先进代码分析程序的支持下，使 PyCharm 成为 Python 专业开发人员和刚起步人员使用的有力工具。 [1] 
