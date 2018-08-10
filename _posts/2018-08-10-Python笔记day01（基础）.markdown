@@ -4,7 +4,7 @@ title:      "Python笔记day01（基础）"
 subtitle:   ""
 date:       2018-08-10 10:00:00
 author:     "崔天祥"
-header-img: ""
+header-img: "img/post-bg-os-metro.jpg"
 tags:
     - 编程
     - Python
