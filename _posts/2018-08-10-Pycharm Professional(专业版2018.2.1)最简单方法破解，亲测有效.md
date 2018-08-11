@@ -1,10 +1,11 @@
-﻿---
+---
 layout:     post
 title:      "Pycharm Professional(专业版)最简单方法破解，亲测有效"
 subtitle:   ""
 date:       2018-08-10 11:17:00
 author:     "崔天祥"
 header-img: "img/post-bg-os-metro.jpg"
+catalog:    true
 tags:
     - 编程
     - Python
@@ -14,17 +15,17 @@ tags:
 
 
 ----------
-**简介**
+#### 简介
 PyCharm是由JetBrains打造的一款Python IDE，VS2010的重构插件Resharper就是出自JetBrains之手。
 同时支持Google App Engine，PyCharm支持IronPython。这些功能在先进代码分析程序的支持下，使 PyCharm 成为 Python 专业开发人员和刚起步人员使用的有力工具。 [1] 
-**特点**
+#### 特点
 首先，PyCharm拥有一般IDE具备的功能，比如， 调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制
 另外，PyCharm还提供了一些很好的功能用于Django开发，同时支持Google App Engine，更酷的是，PyCharm支持IronPython。
 破解过程
 
 
 ----------
-**1、下载官方PyCharm（专业版）并安装。**
+#### 1、下载官方PyCharm（专业版）并安装。
 
  1. 点击[点击直接下载（pycharm2018.2.1）](https://download.jetbrains.com/python/pycharm-professional-2018.2.1.exe)
  2. 进官网[点击这里进官网](https://www.jetbrains.com/pycharm/download/#section=windows)，点击左侧下载
@@ -35,7 +36,7 @@ PyCharm是由JetBrains打造的一款Python IDE，VS2010的重构插件Resharper
 ----------
 
 
-**2、 修改本机hosts文件：** 
+#### 2、 修改本机hosts文件： 
 添加下面一行到hosts文件，目的是屏蔽掉Pycharm对激活码的验证（注意需要用管理员权限才能修改）
 ```
 0.0.0.0 account.jetbrains.com 
@@ -45,7 +46,7 @@ windwos系统hosts文件路径为：C:\Windows\System32\drivers\etc
 
 
 ----------
-**3、获取激活码**
+#### 3、获取激活码
 [点击这里获取激活码](http://idea.lanyus.com/)
  ![这里写图片描述](https://img-blog.csdn.net/20180809230806483?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NzU1MDgx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70) 
 以下激活码若失效请点击上方在线获取
@@ -54,7 +55,7 @@ K71U8DBPNE-eyJsaWNlbnNlSWQiOiJLNzFVOERCUE5FIiwibGljZW5zZWVOYW1lIjoibGFuIHl1IiwiY
 ```
 
 ----------
-**4、复制激活码激活**
+#### 4、复制激活码激活
 选择Activate code 将激活码复制过去点击ok
 ![复制激活码](https://img-blog.csdn.net/20180809231137349?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NzU1MDgx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 激活成功
