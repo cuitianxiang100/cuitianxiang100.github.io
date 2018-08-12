@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Pycharm Professional(专业版)最简单方法破解，亲测有效"
-subtitle:   ""
+subtitle:   "Pycharm安装破解"
 date:       2018-08-10 11:17:00
 author:     "崔天祥"
 header-img: "img/post-bg-os-metro.jpg"
@@ -11,7 +11,7 @@ tags:
     - Python
 ---
 
-> 若本文图片不能正常显示 [点击这里](https://blog.csdn.net/qq_34755081/article/details/81545717)
+> 若本文不能正常显示 [点击这里](https://blog.csdn.net/qq_34755081/article/details/81545717)
 
 
 ----------
