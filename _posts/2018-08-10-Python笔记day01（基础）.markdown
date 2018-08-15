@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Python笔记day01（基础）"
-subtitle:   ""
+title:      "Python笔记day01（基础）|简介"
+subtitle:   "简介"
 date:       2018-08-10 10:00:00
 author:     "崔天祥"
 header-img: "img/post-bg-os-metro.jpg"
